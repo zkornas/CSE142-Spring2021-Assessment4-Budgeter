@@ -8,4 +8,4 @@ The program begins with an introductory message that briefly explains the progra
 
 Finally, the program should print out which category the user falls into based on their net income for the month, where the net income is the result of subtracting the user’s expenses from their income. The category should be followed by a custom message of your choice about the user’s spending habits. This message must be different for each of the four ranges shown below, and should consist of one line of any non-offensive text you choose.
 
-You can read the full specification here(https://courses.cs.washington.edu/courses/cse142/21sp/files/assessments/a4/a4.pdf)
+You can read the full specification [here!](https://courses.cs.washington.edu/courses/cse142/21sp/files/assessments/a4/a4.pdf)
